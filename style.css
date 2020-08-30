@@ -1,0 +1,18 @@
+* {
+    background-color: lightcyan;
+    font-family: sans-serif;
+}
+
+.output {
+    font-weight: bold;
+}
+#payment {
+    text-decoration: underline;
+}
+#graph {
+    border: solid black 1px;
+}
+
+th, td {
+    vertical-align: top;
+}
