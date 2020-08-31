@@ -94,6 +94,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -102,6 +103,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -122,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598746565512</updated>
-      <workItem from="1598746566916" duration="9084000" />
+      <workItem from="1598746566916" duration="18772000" />
     </task>
     <servers />
   </component>
@@ -141,9 +143,48 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state width="734" height="201" key="GridCell.Tab.0.bottom" timestamp="1598762334820">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1598762334820" />
+    <state width="734" height="201" key="GridCell.Tab.0.center" timestamp="1598762334819">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1598762334819" />
+    <state width="734" height="201" key="GridCell.Tab.0.left" timestamp="1598762334819">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1598762334819" />
+    <state width="734" height="201" key="GridCell.Tab.0.right" timestamp="1598762334820">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1598762334820" />
+    <state width="734" height="201" key="GridCell.Tab.1.bottom" timestamp="1598762334821">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1598762334821" />
+    <state width="734" height="201" key="GridCell.Tab.1.center" timestamp="1598762334821">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1598762334821" />
+    <state width="734" height="201" key="GridCell.Tab.1.left" timestamp="1598762334820">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1598762334820" />
+    <state width="734" height="201" key="GridCell.Tab.1.right" timestamp="1598762334821">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="734" height="201" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1598762334821" />
     <state x="66" y="124" key="SettingsEditor" timestamp="1598748126148">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="66" y="124" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1598748126148" />
+    <state x="42" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1598762929105">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="42" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1598762929105" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/loan_calculator$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1598792942312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
